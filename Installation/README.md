@@ -7,7 +7,7 @@
  
 <div dir= ltr>The methodes described for installation in kubernetes.io are :</div>
 </br><li><a target="_blank" rel="noopener noreferrer" href="https://github.com/sabsat/Kubernetes/tree/main/Installation/Kubeadm">Kubeadm</a></li></br>
-<li>Kops</li></br>
-<li>Kubespray</li></br>
+<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/sabsat/Kubernetes/tree/main/Installation/Kops">Kops</a></li></br>
+<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/sabsat/Kubernetes/tree/main/Installation/Kubespray">Kubespray</a></li></br>
 
  
