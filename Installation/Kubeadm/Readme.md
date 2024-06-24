@@ -1,5 +1,6 @@
-<p align=center>
-![Kubeadm](https://github.com/sabsat/Kubernetes/assets/52891829/2d6b80ea-afae-4c8f-86a4-645206c5cfe0)
+<p align="center">
+<img src="https://github.com/sabsat/Kubernetes/assets/52891829/298b9f87-4f86-422d-bc22-943c8c4522e0" />
+
 </p>
 
 Hi
