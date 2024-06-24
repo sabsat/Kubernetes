@@ -7,9 +7,5 @@
  
  </br></br></br>
  
-<div dir= ltr>The methodes described for installation in kubernetes.io are :</div>
-</br>Kubeadm</br>
-Kops</br>
-Kubespray</br>
 
  
